@@ -1,6 +1,6 @@
 # RANDOM QUOTE MACHINE WITH REACTJS AND BOOTSTRAP FOR THE FREECODECAMP PROJECT
 
-Preview live at [random quote machine](https://quizzical-ride-90fa45.netlify.app/)
+Preview live at [random quote machine](https://distracted-mcclintock-0e42bd.netlify.app/)
 
 
 ## Getting Started with Create React App
