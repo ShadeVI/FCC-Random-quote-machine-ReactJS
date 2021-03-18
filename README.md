@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# RANDOM QUOTE MACHINE WITH REACTJS AND BOOTSTRAP FOR THE FREECODECAMP PROJECT
+
+Preview live at [random quote machine](https://quizzical-ride-90fa45.netlify.app/)
+
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
